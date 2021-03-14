@@ -1,6 +1,7 @@
 body {
     font-size: 16px;
     font-family: arial, sans-serif;
+    min-width: 320px;
 }
 
 .navbar {
