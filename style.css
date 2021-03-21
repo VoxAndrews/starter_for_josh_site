@@ -1,3 +1,12 @@
+/*
+    Theme Name: Josh's Wordpress Site
+    Theme URL: http://joshwhitkin.com
+    Description: A style-free theme to get you started on an HTLM5-based Wordpress theme of your own.
+    Author: Darcy Wilson - 32926762
+    Author URL: http://joshwhitkin.com
+    Version: 1.0
+*/
+
 body {
     font-size: 16px;
     font-family: arial, sans-serif;
@@ -52,7 +61,7 @@ a:hover {
     background-color: #d9dade;
 }
 
-.aboutbg h2{
+.aboutbg h2 {
     font-family: 'Raleway', sans-serif;
     font-size: 2.4em;
     font-weight: 800;
