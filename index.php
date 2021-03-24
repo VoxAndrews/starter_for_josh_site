@@ -54,7 +54,7 @@ wp_reset_query();?>
                 <!--Column Medium 4-->
 
                 <div class="col-md-4 article-cent">
-                    <img class="img-responsive" src="http://206.189.45.97/~mesh22/sub4/wpcontent/themes/starter_for_josh_site/images/game.jpg" alt="Overhead view of Racing Track">
+                    <img class="img-responsive" src="ftp://sub4mesh22%2540sub4.meshatmurdoch-22.com@206.189.45.97/wp-content/themes/starter_for_josh_site/images/img-1.jpg" alt="Overhead view of Racing Track">
 
                     <h4> GAMES DESIGN </h4>
                     <p class="date"> Friday, November 10. 2019</p>
