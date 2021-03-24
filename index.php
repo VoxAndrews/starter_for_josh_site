@@ -30,7 +30,7 @@ wp_reset_query();?>
                 </div>
 
                 <div class="col-md-4 article-cent">
-                    <img class="img-responsive" src="http://206.189.45.97/~mesh22/sub4/wpcontent/themes/starter_for_josh_site/images/game.jpg" alt="Fantasy Portrait of Female Bowman">
+                    <img class="img-responsive" src="http://206.189.45.97/~mesh22/sub4/wp-content/themes/starter_for_josh_site/images/img-3.jpg" alt="Fantasy Portrait of Female Bowman">
 
                     <h4> A PORTRAIT </h4>
                     <p class="date"> Friday, November 10. 2019</p>
@@ -42,7 +42,7 @@ wp_reset_query();?>
                 <!--Column Medium 4-->
 
                 <div class="col-md-4 article-cent">
-                    <img class="img-responsive" src="http://206.189.45.97/~mesh22/sub4/wpcontent/themes/starter_for_josh_site/images/game.jpg" alt="3D Render of Glowing Robot Suit">
+                    <img class="img-responsive" src="http://206.189.45.97/~mesh22/sub4/wp-content/themes/starter_for_josh_site/images/img-2.jpg" alt="3D Render of Glowing Robot Suit">
 
                     <h4> A MODEL </h4>
                     <p class="date"> Friday, November 10. 2019</p>
@@ -54,7 +54,7 @@ wp_reset_query();?>
                 <!--Column Medium 4-->
 
                 <div class="col-md-4 article-cent">
-                    <img class="img-responsive" src="ftp://sub4mesh22%2540sub4.meshatmurdoch-22.com@206.189.45.97/wp-content/themes/starter_for_josh_site/images/img-1.jpg" alt="Overhead view of Racing Track">
+                    <img class="img-responsive" src="http://206.189.45.97/~mesh22/sub4/wp-content/themes/starter_for_josh_site/images/img-1.jpg" alt="Overhead view of Racing Track">
 
                     <h4> GAMES DESIGN </h4>
                     <p class="date"> Friday, November 10. 2019</p>
