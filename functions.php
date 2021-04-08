@@ -10,7 +10,6 @@ function theme_add_bootstrap()
  
 add_action( 'wp_enqueue_scripts', 'theme_add_bootstrap' );
 add_theme_support( 'post-thumbnails'); 
-
 ?>
 <?php
 function add_menu_link_class( $atts, $item, $args ) {
