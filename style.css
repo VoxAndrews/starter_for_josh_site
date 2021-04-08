@@ -39,7 +39,14 @@ a:hover {
 }
 
 .herobg {
+    width: 100%;
     background: url(images/header-bg.jpg);
+    background-size: cover;
+    height: 40vh;
+}
+
+.small_herobg {
+    background: url(images/small_header-bg.jpg);
     background-size: cover;
 }
 
