@@ -63,13 +63,13 @@
                 </div>
                 <div class="collapse navbar-collapse" id="myNavbar">
 <ul class="nav navbar-nav navbar-right">
-<?php wp_nav_menu(array(
-'menu' => 'Top Menu',
-'items_wrap'=>'%3$s',
-'container' => false,
-'list_item_class' => "nav-item",
-'link_class' => "nav-link",
-)); ?>
+    <?php wp_nav_menu(array(
+        'menu' => 'Top Menu',
+        'items_wrap'=>'%3$s',
+        'container' => false,
+        'list_item_class' => "nav-item",
+        'link_class' => "nav-link",
+        )); ?>
 </ul>
                 </div>
             </div>
