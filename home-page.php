@@ -18,22 +18,31 @@
     <section class="container-fluid articlebg">
         <div class="container">
             <div class="row">
-                <div>
-                    <h3 class="text-center article-title"> LATEST ARTICLES </h3>
+                <div class="article-title text-center">
+                    <h3 class="text-center article-title "><?php the_field('titleforarticles'); ?></h3>
                 </div>
 
                 <div class="col-md-4 article-cent">
-<!--Placeholder for col1-->
-                </div>
-                <!--Column Medium 4-->
-
-                <div class="col-md-4 article-cent">
-<!--Placeholder for col1-->
+                    <img class="img-responsive" alt=“portait” src="<?php the_field('articleimage'); ?>">
+                    <h4><?php the_field('articletitle'); ?></h4>
+                    <p><?php the_field('articleexcerpt'); ?> </p>
+                    <a href="<?php the_field('readmore'); ?>" class="readmore">CONTINUE READING</a>
                 </div>
                 <!--Column Medium 4-->
 
                 <div class="col-md-4 article-cent">
-<!--Placeholder for col1-->
+                    <img class="img-responsive" alt=“portait” src="<?php the_field('articleimagetwo'); ?>">
+                    <h4><?php the_field('articletitletwo'); ?></h4>
+                    <p><?php the_field('articleexcerpttwo'); ?> </p>
+                    <a href="<?php the_field('readmoretwo'); ?>" class="readmore">CONTINUE READING</a>
+                </div>
+                <!--Column Medium 4-->
+
+                <div class="col-md-4 article-cent">
+                    <img class="img-responsive" alt=“portait” src="<?php the_field('articleimagethree'); ?>">
+                    <h4><?php the_field('articletitlethree'); ?></h4>
+                    <p><?php the_field('articleexcerptthree'); ?> </p>
+                    <a href="<?php the_field('readmorethree'); ?>" class="readmore">CONTINUE READING</a>
                 </div>
                 <!--Column Medium 4-->
             </div>
