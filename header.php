@@ -64,7 +64,7 @@
                 <div class="collapse navbar-collapse" id="myNavbar">
 <ul class="nav navbar-nav navbar-right">
 <?php wp_nav_menu(array(
-    'menu' => 'Top Menu',
+    'menu' => 'Top-Menu-1',
     'items_wrap' => '%3$s',
     'container' => false,
     'list_item_class' => "nav-item",
