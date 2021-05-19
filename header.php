@@ -75,7 +75,7 @@
             </div>
         </nav>
 
-        <div class="container">
+        <div class="container animate fadeInRight">
             <h1><?php the_field('maintagline'); ?></h1>
             <!--Main Tag Line-->
         </div>
