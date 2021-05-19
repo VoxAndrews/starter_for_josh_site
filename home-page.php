@@ -18,7 +18,7 @@
     <section class="container-fluid articlebg">
         <div class="container">
             <div class="row">
-                <div class="article-title text-center">
+                <div class="article-title text-center wow bounceInUp">
                     <h3 class="text-center article-title "><?php the_field('titleforarticles'); ?></h3>
                 </div>
 
