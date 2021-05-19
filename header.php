@@ -42,6 +42,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;800&display=swap" rel="stylesheet">
 
+    <link rel="stylesheet" href="css/animate.min.css">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="responsive.css">
 
@@ -75,7 +76,7 @@
             </div>
         </nav>
 
-        <div class="container animate fadeInRight">
+        <div class="container animated fadeInRight">
             <h1><?php the_field('maintagline'); ?></h1>
             <!--Main Tag Line-->
         </div>
